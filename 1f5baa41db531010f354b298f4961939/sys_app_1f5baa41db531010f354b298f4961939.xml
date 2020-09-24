@@ -34,7 +34,7 @@
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
-        <user_role display_value="">7fcaa702933002009c8579b4f47ffbde</user_role>
+        <user_role display_value="snc_internal" name="snc_internal">7fcaa702933002009c8579b4f47ffbde</user_role>
         <vendor/>
         <vendor_prefix/>
         <version>1.0.0</version>
